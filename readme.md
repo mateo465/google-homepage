@@ -1,0 +1,1 @@
+This is Google-homepage project from The Odin projects. In this projects I use my HTML and CSS skill that I learn from course [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design).
