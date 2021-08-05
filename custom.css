@@ -1,0 +1,119 @@
+#logo {
+  margin: 0;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+
+  
+}
+
+#form {
+
+  
+
+  
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+
+
+
+     }
+
+  input {
+ width: 520px;
+ height: 40px;
+ color: black;
+}
+
+
+.submit {
+  margin: 0;
+  position: absolute;
+  top: 200%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+
+
+}
+
+.submit1 {
+  width: 120px;
+ height: 30px;
+ position: relative;
+ left: 0px;
+ top: 0px;
+ background-color: #A9A9A9;
+ border-radius: 5px;
+ opacity: 50%;
+ 
+
+
+}
+
+.submit2 {
+  width: 120px;
+ height: 30px;
+ position: relative;
+ left: 0px;
+ top: 0px;
+ background-color: #A9A9A9;
+ border-radius: 5px;
+ opacity: 50%;
+
+
+ }
+
+ .material-icons-outlined {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 63%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+
+
+}
+
+
+ ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  float: right;
+  margin-rigth: 8px; 
+}
+
+li {
+  display: inline;
+
+}
+
+i {
+  position: relative;
+  top: 8px;
+}
+
+
+
+a {
+  color:  black;
+  padding: 5px;
+}
+
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    
+    width: 100% ;
+    height: 40px ;
+    background-color: gray;
+    opacity: 50%;
+}
